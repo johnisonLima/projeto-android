@@ -35,12 +35,6 @@ body, h1{
     margin: 0;
     padding: 0;
 }
-p{
-    font-size: 16px;
-    margin: 15px 0;
-    text-indent: 30px;
-    line-height: 25px;
-}
 header{
     min-height: 130px;
     background-image: linear-gradient(180deg, var(--cor1), var(--cor2), var(--cor3));
@@ -97,6 +91,12 @@ main h1{
 }
 main .historia{
     font-size: 25px;
+}
+main p{
+    font-size: 16px;
+    margin: 15px 0;
+    text-indent: 30px;
+    line-height: 25px;
 }
 main a{
     background-color: var(--cor0);
